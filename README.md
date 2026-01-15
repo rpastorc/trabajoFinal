@@ -15,4 +15,18 @@ Este proyecto forma parte del **trabajo final del curso de Python para Big Data*
 ---
 
 ## Estructura del Proyecto
-
+alura-store/
+│
+├── data/
+│ └── ventas.csv # Dataset original de ventas
+│
+├── notebooks/
+│ └── alura_store_analysis.ipynb # Notebook principal de análisis
+│
+├── images/
+│ ├── ventas_por_pais.png # Ejemplo de gráfico generado
+│ └── ventas_por_region.png
+│
+├── requirements.txt # Dependencias del proyecto
+│
+└── README.md # Documentación del proyecto
