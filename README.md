@@ -15,6 +15,7 @@ Este proyecto forma parte del **trabajo final del curso de Python para Big Data*
 ---
 
 ## Estructura del Proyecto
+
 alura-store/
 │
 ├── data/
