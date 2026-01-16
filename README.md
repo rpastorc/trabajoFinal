@@ -1,33 +1,33 @@
-# Alura Store – Análisis de Datos de Ventas
+#  Alura Store – Análisis de Datos de Ventas
 
-## Propósito del Proyecto
+##  Propósito del Proyecto
 
-El objetivo de este proyecto es realizar un **análisis exploratorio de datos (EDA)** sobre las ventas de la tienda **Alura Store**, utilizando **Python** y librerías de análisis de datos.
+Este proyecto tiene como objetivo realizar un **análisis exploratorio de datos (EDA)** sobre las ventas de la tienda **Alura Store**, utilizando **Python** y herramientas de análisis de datos.
 
-A partir de los datos disponibles, se busca:
-- Identificar patrones de ventas por país y región.
-- Analizar el rendimiento comercial según distintos criterios.
-- Obtener **insights accionables** que ayuden a la toma de decisiones del área comercial.
-- Visualizar los resultados mediante gráficos claros e interpretables.
+A partir del dataset proporcionado, se busca:
+- Analizar el comportamiento de las ventas por país y región.
+- Identificar patrones y tendencias relevantes.
+- Obtener **insights** que ayuden a la toma de decisiones del área comercial.
+- Visualizar la información mediante gráficos claros y comprensibles.
 
-Este proyecto forma parte del **trabajo final del curso de Python para Big Data**.
+Este trabajo forma parte del **proyecto final del curso Python para Big Data**.
 
 ---
 
-## Estructura del Proyecto
+##  Estructura del Proyecto
 
 alura-store/
 │
 ├── data/
-│ └── ventas.csv # Dataset original de ventas
+│ └── ventas.csv
 │
 ├── notebooks/
-│ └── alura_store_analysis.ipynb # Notebook principal de análisis
+│ └── alura_store_analysis.ipynb
 │
 ├── images/
-│ ├── ventas_por_pais.png # Ejemplo de gráfico generado
+│ ├── ventas_por_pais.png
 │ └── ventas_por_region.png
 │
-├── requirements.txt # Dependencias del proyecto
+├── requirements.txt
 │
-└── README.md # Documentación del proyecto
+└── README.md
