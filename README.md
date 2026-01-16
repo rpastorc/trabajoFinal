@@ -24,10 +24,6 @@ alura-store/
 ├── notebooks/
 │ └── alura_store_analysis.ipynb
 │
-├── images/
-│ ├── ventas_por_pais.png
-│ └── ventas_por_region.png
-│
 ├── requirements.txt
 │
 └── README.md
